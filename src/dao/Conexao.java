@@ -13,8 +13,8 @@ public class Conexao {
             "root";
 
     private static final String PASSWORD =
-            //"c@roL-2017?";
-            "root";
+            
+            "SENHA";
 
     public static Connection conectar()
             throws SQLException {
